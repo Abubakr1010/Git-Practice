@@ -1,3 +1,3 @@
 # Git-Practice
 
-print "Hello World"
+print "Hello Universe"
